@@ -1,0 +1,12 @@
+/home/odmin/Documents/Project/Solana/SolanaSwapTrans/token-swap/program/target/sbf-solana-solana/release/deps/spl_token.so: /home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/token/program/src/lib.rs /home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/token/program/src/error.rs /home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/token/program/src/instruction.rs /home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/token/program/src/native_mint.rs /home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/token/program/src/processor.rs /home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/token/program/src/state.rs
+
+/home/odmin/Documents/Project/Solana/SolanaSwapTrans/token-swap/program/target/sbf-solana-solana/release/deps/libspl_token.rlib: /home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/token/program/src/lib.rs /home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/token/program/src/error.rs /home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/token/program/src/instruction.rs /home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/token/program/src/native_mint.rs /home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/token/program/src/processor.rs /home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/token/program/src/state.rs
+
+/home/odmin/Documents/Project/Solana/SolanaSwapTrans/token-swap/program/target/sbf-solana-solana/release/deps/spl_token.d: /home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/token/program/src/lib.rs /home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/token/program/src/error.rs /home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/token/program/src/instruction.rs /home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/token/program/src/native_mint.rs /home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/token/program/src/processor.rs /home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/token/program/src/state.rs
+
+/home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/token/program/src/lib.rs:
+/home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/token/program/src/error.rs:
+/home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/token/program/src/instruction.rs:
+/home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/token/program/src/native_mint.rs:
+/home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/token/program/src/processor.rs:
+/home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/token/program/src/state.rs:

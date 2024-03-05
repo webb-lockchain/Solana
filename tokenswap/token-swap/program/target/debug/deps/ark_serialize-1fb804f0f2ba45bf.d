@@ -1,0 +1,11 @@
+/home/odmin/Documents/Project/Solana/SolanaSwapTrans/token-swap/program/target/debug/deps/libark_serialize-1fb804f0f2ba45bf.rmeta: /home/odmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/lib.rs /home/odmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/error.rs /home/odmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/flags.rs /home/odmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/impls.rs /home/odmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/../README.md
+
+/home/odmin/Documents/Project/Solana/SolanaSwapTrans/token-swap/program/target/debug/deps/libark_serialize-1fb804f0f2ba45bf.rlib: /home/odmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/lib.rs /home/odmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/error.rs /home/odmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/flags.rs /home/odmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/impls.rs /home/odmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/../README.md
+
+/home/odmin/Documents/Project/Solana/SolanaSwapTrans/token-swap/program/target/debug/deps/ark_serialize-1fb804f0f2ba45bf.d: /home/odmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/lib.rs /home/odmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/error.rs /home/odmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/flags.rs /home/odmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/impls.rs /home/odmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/../README.md
+
+/home/odmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/lib.rs:
+/home/odmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/error.rs:
+/home/odmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/flags.rs:
+/home/odmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/impls.rs:
+/home/odmin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/../README.md:

@@ -1,0 +1,12 @@
+/home/odmin/Documents/Project/Solana/SolanaSwapTrans/token-swap/program/target/sbf-solana-solana/release/deps/spl_pod.so: /home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/libraries/pod/src/lib.rs /home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/libraries/pod/src/bytemuck.rs /home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/libraries/pod/src/error.rs /home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/libraries/pod/src/optional_keys.rs /home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/libraries/pod/src/primitives.rs /home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/libraries/pod/src/slice.rs
+
+/home/odmin/Documents/Project/Solana/SolanaSwapTrans/token-swap/program/target/sbf-solana-solana/release/deps/libspl_pod.rlib: /home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/libraries/pod/src/lib.rs /home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/libraries/pod/src/bytemuck.rs /home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/libraries/pod/src/error.rs /home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/libraries/pod/src/optional_keys.rs /home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/libraries/pod/src/primitives.rs /home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/libraries/pod/src/slice.rs
+
+/home/odmin/Documents/Project/Solana/SolanaSwapTrans/token-swap/program/target/sbf-solana-solana/release/deps/spl_pod.d: /home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/libraries/pod/src/lib.rs /home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/libraries/pod/src/bytemuck.rs /home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/libraries/pod/src/error.rs /home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/libraries/pod/src/optional_keys.rs /home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/libraries/pod/src/primitives.rs /home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/libraries/pod/src/slice.rs
+
+/home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/libraries/pod/src/lib.rs:
+/home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/libraries/pod/src/bytemuck.rs:
+/home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/libraries/pod/src/error.rs:
+/home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/libraries/pod/src/optional_keys.rs:
+/home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/libraries/pod/src/primitives.rs:
+/home/odmin/Documents/Project/Solana/SolanaSwapTrans/libs/libraries/pod/src/slice.rs:

@@ -1,0 +1,29 @@
+{
+  "name": "0201",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --exec ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/mongoose": "^5.11.97",
+    "nodemon": "^3.0.3",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@project-serum/anchor": "^0.26.0",
+    "@solana/spl-token": "^0.4.0",
+    "@solana/web3.js": "^1.89.1",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "swagger-ui-express": "^5.0.0"
+  }
+}

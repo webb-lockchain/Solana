@@ -1,0 +1,105 @@
+Ubuntu20.04----------------
+
+!.Get environment
+ubuntu20.04, vmware16.2
+-general method
+https://dev.to/edge-and-node/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291
+-install nvm node curl git
+https://www.howtoforge.com/how-to-install-yarn-npm-package-manager-on-ubuntu-20-04/
+
+yarn install:
+https://www.howtoforge.com/how-to-install-yarn-npm-package-manager-on-ubuntu-20-04/
+nvm install:
+https://tecadmin.net/how-to-install-nvm-on-ubuntu-20-04/
+git install:
+https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-20-04
+
+
+
+
+
+=Install solana
+
+https://docs.solanalabs.com/cli/install
+
+
+
+
+
+
+
+=Install cargo
+curl https://sh.rustup.rs -sSf | sh
+refer:https://doc.rust-lang.org/cargo/getting-started/installation.html
+-install anchor
+sudo apt-get update
+sudo apt-get install build-essential
+cargo install --git https://github.com/project-serum/anchor anchor-cli --locked
+refer:https://lorisleiva.com/create-a-solana-dapp-from-scratch/getting-started-with-solana-and-anchor#install-anchor
+=Install rust
+curl https://sh.rustup.rs -sSf | sh
+refer:https://phoenixnap.com/kb/install-rust-ubuntu
+-Install git
+
+
+2.create new contract and test script:
+anchor init mysolanaapp --javascript
+cd mysolanaapp
+anchor build
+for test: anchor test
+
+
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+
+https://github.com/solana-labs/solana/releases/download/v1.18.1/solana-release-x86_64-unknown-linux-gnu.tar.bz2
+
+
+https://beta.solpg.io/
+https://hackernoon.com/how-to-create-smart-contracts-in-solana-using-anchor
+
+With cargo step by step
+Refer:https://moralis.io/solana-smart-contract-building/
+
+Prepare Wallet:
+-Install phantom wallet extension
+-To Devnet
+-Copy address and deposit virtual SOL 
+https://faucet.solana.com/
+Select devnet
+
+Auto:
+pubkey:        9FjEfwscGtK7PvEwbcqzrBjr3Pdgboq4uDEHea2Jg2bG
+seed:            smart lizard tragic afraid provide decade flavor slow token clip piece execute
+address:       8XKvHZehR19fDGkwHyysTb8xAEDrD3Lp9PYQvsR5oiom
+
+
+Dca:
+pubkey:        7cMfokLGeP7xunWPbDB7SJxXZsdjHJSq7B985c2vfn3G
+seed:            proud quick shed spider welcome sand code quiz hungry current stick banana
+address:       9iboF533SUmQ8KdhVzwkBqvDaWjVXeRxJk4JeHHaoCTj
+
+
+Spam:
+pubkey:        ZjFqdWaBDUc25dnCwoMkpywLfHcmVDXpFvWqVQp14ee
+seed:            vendor fossil winner clever velvet true own detect rhythm check laugh sleep
+address:       HfyoVgZkN9REBXSukvPB13sD9qW8u5dfL4gmvrqgiCgN
+
+
+User1:
+pubkey:       C7e3qWbp625CqPm6UjEcefc7Wy6NwDsZbqGDdPABkQgH
+seed:            survey bridge dismiss august figure couch level hotel grit attract struggle cinnamon
+address:       BQXn2djKsZcVx7rgxGncAsuuEmmRD8u4wqyxo1oC9wwK
+
+
+
+User2:
+pubkey: 9JQ8Q2yyYmm39FKjdvevedJ71ewXqSNFR9tijDcECrJp
+sting onion cycle keen already near floor gorilla symptom tornado hard exit
+
+
+
+

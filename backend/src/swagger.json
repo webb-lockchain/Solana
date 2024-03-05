@@ -1,0 +1,125 @@
+{
+    "swagger": "2.0",
+    "info": {
+      "title": "Solana API",
+      "version": "1.0.0"
+    },
+    "paths": {
+      "/api/swap": {
+        "get": {
+          "summary": "Get swap information",
+          "description": "Returns information about swap",
+          "parameters": [
+            {
+              "name": "account",
+              "in": "query",
+              "description": "User account info",
+              "required": true,
+              "type": "object",
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "property1": {
+                    "type": "string",
+                    "description": "Description of property1"
+                  },
+                  "property2": {
+                    "type": "integer",
+                    "format": "int32",
+                    "description": "Description of property2"
+                  }
+                }
+              }
+            },
+            {
+              "name": "amounts",
+              "in": "query",
+              "description": "transfered amounts",
+              "required": true,
+              "type": "string"
+            },
+            {
+              "name": "swap_from",
+              "in": "query",
+              "description": "Sell coin:SOL,Eth,BNB",
+              "required": true,
+              "type": "string"
+            },
+            {
+              "name": "swap_to",
+              "in": "query",
+              "description": "Buy coin:SOL,Eth,BNB",
+              "required": true,
+              "type": "string"
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Successful response"
+            },
+            "201": {
+              "description": "Network error"
+            },
+            "202": {
+              "description": "Not sufficient gas fee"
+            }
+          }
+        }
+      },
+      "/api/transfer": {
+        "get": {
+          "summary": "Get transfer information",
+          "description": "Returns information about transfer",
+          "parameters": [
+            {
+              "name": "account",
+              "in": "query",
+              "description": "User account info",
+              "required": true,
+              "type": "object",
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "property1": {
+                    "type": "string",
+                    "description": "Description of property1"
+                  },
+                  "property2": {
+                    "type": "integer",
+                    "format": "int32",
+                    "description": "Description of property2"
+                  }
+                }
+              }
+            },
+            {
+              "name": "amounts",
+              "in": "query",
+              "description": "transfered amounts",
+              "required": true,
+              "type": "string"
+            },
+            {
+              "name": "type",
+              "in": "query",
+              "description": "Account among AUTO, DCA, SPAM",
+              "required": true,
+              "type": "string"
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Successful response"
+            },
+            "201": {
+              "description": "Network error"
+            },
+            "202": {
+              "description": "Not sufficient gas fee"
+            }
+          }
+        }
+      }
+    }
+  }
+  
