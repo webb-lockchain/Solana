@@ -38,11 +38,11 @@ export interface RawTokenSwap {
   tradeFeeDenominator: bigint;
   ownerTradeFeeNumerator: bigint;
   ownerTradeFeeDenominator: bigint;
-  // ownerWithdrawFeeNumerator: bigint;
-  // ownerWithdrawFeeDenominator: bigint;
-  // hostFeeNumerator: bigint;
-  // hostFeeDenominator: bigint;
-  // curveType: number;
+  ownerWithdrawFeeNumerator: bigint;
+  ownerWithdrawFeeDenominator: bigint;
+  hostFeeNumerator: bigint;
+  hostFeeDenominator: bigint;
+  curveType: number;
   curveParameters: Uint8Array;
 }
 
