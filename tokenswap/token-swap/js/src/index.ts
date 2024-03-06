@@ -23,7 +23,6 @@ export const TOKEN_SWAP_PROGRAM_ID: PublicKey = new PublicKey(
 export const OLD_TOKEN_SWAP_PROGRAM_ID: PublicKey = new PublicKey(
   'SwaPpA9LAaLfeLi3a68M4DjnLqgtticKg6CnyNwgAC8',
 );
-
 export interface RawTokenSwap {
   version: number;
   isInitialized: boolean;
@@ -39,11 +38,11 @@ export interface RawTokenSwap {
   tradeFeeDenominator: bigint;
   ownerTradeFeeNumerator: bigint;
   ownerTradeFeeDenominator: bigint;
-  ownerWithdrawFeeNumerator: bigint;
-  ownerWithdrawFeeDenominator: bigint;
-  hostFeeNumerator: bigint;
-  hostFeeDenominator: bigint;
-  curveType: number;
+  // ownerWithdrawFeeNumerator: bigint;
+  // ownerWithdrawFeeDenominator: bigint;
+  // hostFeeNumerator: bigint;
+  // hostFeeDenominator: bigint;
+  // curveType: number;
   curveParameters: Uint8Array;
 }
 
